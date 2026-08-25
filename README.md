@@ -7,6 +7,7 @@
 <div align="center">
 
 [![Website](https://img.shields.io/badge/CHILLIM.BA-D6AE57?style=for-the-badge&logo=safari&logoColor=1A0D0A)](https://chillim.ba/)
+[![Email](https://img.shields.io/badge/EMAIL-9D4A2F?style=for-the-badge&logo=gmail&logoColor=F0E3C7)](mailto:itsameharun@hmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-6F2529?style=for-the-badge&logo=linkedin&logoColor=F0E3C7)](https://www.linkedin.com/in/harun-huski%C4%87-baaa51152/)
 [![Location](https://img.shields.io/badge/SARAJEVO-363B26?style=for-the-badge&logo=googlemaps&logoColor=F0E3C7)](https://maps.google.com/?q=Sarajevo)
 
@@ -14,69 +15,70 @@
 
 ## 01 / Zdravo — I'm Harun.
 
-I'm a **Computer Science Engineer** weaving design, software, and artificial intelligence into digital products with character. My work lives where Bosnian craft meets contemporary technology: thoughtful systems, expressive interfaces, useful AI, and brands people remember.
+I'm a **Computer Science Engineer** building digital products across web, mobile, artificial intelligence, and interactive experiences. I combine strong engineering with clear visual direction—from React and Next.js applications to computer vision systems, cloud infrastructure, and creative production.
 
 ```text
-heritage ────────────────┐
-design ──────────────────┼──► memorable digital products
-engineering ─────────────┤
-intelligence ────────────┘
+engineering ─────────────┐
+design ──────────────────┼──► useful digital experiences
+artificial intelligence ─┤
+creative technology ─────┘
 ```
 
-### What I'm weaving now
+### What I'm building now
 
-- Building AI experiences that solve real, human problems
-- Exploring computer vision, machine learning, and local LLMs
-- Shaping brands and interfaces through **Chillim Digital**
-- Turning folklore, strategy, and software into one coherent craft
+- AI products that solve real, human problems
+- Full-stack web applications with modern JavaScript technologies
+- Mobile experiences with React Native
+- Computer vision, machine learning, and local LLM experiments
+- Digital products and creative direction through **Chillim Digital**
 
-## 02 / Selected work
+## 02 / Technology stack
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤟 Real-Time AI Sign Language Interpreter</h3>
-      <p>Computer vision system that recognizes ASL signs from a webcam using MediaPipe landmarks, TensorFlow/Keras, ensemble learning, stabilization voting, and text-to-speech.</p>
-      <a href="https://github.com/harunhuskic/Real-Time-AI-Sign-Language-Interpreter"><strong>Explore the project →</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧭 Drum — AI Travel Planner</h3>
-      <p>A local-first journey planner for Bosnia & Herzegovina combining A*, BFS, Greedy Best-First Search, authentic road data, Pygame, and Mistral through Ollama.</p>
-      <a href="https://github.com/harunhuskic/drum"><strong>Explore the project →</strong></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌿 Plant Disease Detection</h3>
-      <p>Transfer-learning research and prediction app comparing ResNet50, EfficientNetB0, and a custom CNN for PlantVillage leaf classification.</p>
-      <a href="https://github.com/harunhuskic/CS404-Project2"><strong>Explore the project →</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ Gravity Glitch</h3>
-      <p>A JavaScript rhythm-platformer inspired by Geometry Dash and energized by Balkan music—a small experiment in code, motion, and regional character.</p>
-      <a href="https://github.com/harunhuskic/GravityGlitch"><strong>Explore the project →</strong></a>
-    </td>
-  </tr>
-</table>
+### Web & mobile
 
-## 03 / Craft stack
+<div align="center">
+
+![React](https://img.shields.io/badge/REACT-6F2529?style=for-the-badge&logo=react&logoColor=F0E3C7)
+![React Native](https://img.shields.io/badge/REACT_NATIVE-D6AE57?style=for-the-badge&logo=react&logoColor=1A0D0A)
+![Next.js](https://img.shields.io/badge/NEXT.JS-1A0D0A?style=for-the-badge&logo=nextdotjs&logoColor=F0E3C7)
+![Node.js](https://img.shields.io/badge/NODE.JS-363B26?style=for-the-badge&logo=nodedotjs&logoColor=F0E3C7)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-D6AE57?style=for-the-badge&logo=javascript&logoColor=1A0D0A)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-6F2529?style=for-the-badge&logo=typescript&logoColor=F0E3C7)
+![HTML5](https://img.shields.io/badge/HTML5-9D4A2F?style=for-the-badge&logo=html5&logoColor=F0E3C7)
+![CSS3](https://img.shields.io/badge/CSS3-363B26?style=for-the-badge&logo=css3&logoColor=F0E3C7)
+![PHP](https://img.shields.io/badge/PHP-6F2529?style=for-the-badge&logo=php&logoColor=F0E3C7)
+![C#](https://img.shields.io/badge/C%23-9D4A2F?style=for-the-badge&logo=csharp&logoColor=F0E3C7)
+
+</div>
+
+### AI, data & cloud
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/PYTHON-6F2529?style=for-the-badge&logo=python&logoColor=F0E3C7)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-D6AE57?style=for-the-badge&logo=javascript&logoColor=1A0D0A)
 ![TensorFlow](https://img.shields.io/badge/TENSORFLOW-9D4A2F?style=for-the-badge&logo=tensorflow&logoColor=F0E3C7)
 ![Keras](https://img.shields.io/badge/KERAS-6F2529?style=for-the-badge&logo=keras&logoColor=F0E3C7)
 ![OpenCV](https://img.shields.io/badge/OPENCV-363B26?style=for-the-badge&logo=opencv&logoColor=F0E3C7)
 ![Ollama](https://img.shields.io/badge/OLLAMA-1A0D0A?style=for-the-badge&logo=ollama&logoColor=D6AE57)
-![Git](https://img.shields.io/badge/GIT-9D4A2F?style=for-the-badge&logo=git&logoColor=F0E3C7)
-![GitHub](https://img.shields.io/badge/GITHUB-1A0D0A?style=for-the-badge&logo=github&logoColor=D6AE57)
-![WordPress](https://img.shields.io/badge/WORDPRESS-363B26?style=for-the-badge&logo=wordpress&logoColor=F0E3C7)
-![Figma](https://img.shields.io/badge/FIGMA-6F2529?style=for-the-badge&logo=figma&logoColor=F0E3C7)
+![Supabase](https://img.shields.io/badge/SUPABASE-363B26?style=for-the-badge&logo=supabase&logoColor=F0E3C7)
+![Cloudflare](https://img.shields.io/badge/CLOUDFLARE-9D4A2F?style=for-the-badge&logo=cloudflare&logoColor=F0E3C7)
 
 </div>
 
-## 04 / The signal
+### Tools & creative production
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/GIT-9D4A2F?style=for-the-badge&logo=git&logoColor=F0E3C7)
+![GitHub](https://img.shields.io/badge/GITHUB-1A0D0A?style=for-the-badge&logo=github&logoColor=D6AE57)
+![Figma](https://img.shields.io/badge/FIGMA-6F2529?style=for-the-badge&logo=figma&logoColor=F0E3C7)
+![Adobe Creative Cloud](https://img.shields.io/badge/ADOBE_CREATIVE_CLOUD-9D4A2F?style=for-the-badge&logo=adobecreativecloud&logoColor=F0E3C7)
+![DaVinci Resolve](https://img.shields.io/badge/DAVINCI_RESOLVE-363B26?style=for-the-badge&logo=davinciresolve&logoColor=F0E3C7)
+![WordPress](https://img.shields.io/badge/WORDPRESS-6F2529?style=for-the-badge&logo=wordpress&logoColor=F0E3C7)
+
+</div>
+
+## 03 / GitHub activity
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=harunhuskic&show_icons=true&hide_border=true&bg_color=1A0D0A&title_color=D6AE57&text_color=F0E3C7&icon_color=8B3438&rank_icon=github" alt="Harun's GitHub statistics" />
@@ -92,5 +94,5 @@ intelligence ────────────┘
 ---
 
 <div align="center">
-  <sub><strong>FOLKLORE × FUTURISM</strong> · woven in Sarajevo</sub>
+  <sub><strong>ENGINEERING × DESIGN × AI</strong> · Sarajevo, Bosnia and Herzegovina</sub>
 </div>
