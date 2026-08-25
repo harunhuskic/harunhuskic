@@ -78,12 +78,13 @@ creative technology ─────┘
 
 </div>
 
-## 03 / GitHub activity
+## 03 / Contribution activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=harunhuskic&show_icons=true&hide_border=true&bg_color=1A0D0A&title_color=D6AE57&text_color=F0E3C7&icon_color=8B3438&rank_icon=github" alt="Harun's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harunhuskic&layout=compact&hide_border=true&bg_color=1A0D0A&title_color=D6AE57&text_color=F0E3C7" alt="Harun's most-used languages" />
+  <sub>Updated automatically from my GitHub contributions.</sub>
 </div>
+
+<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harunhuskic/harunhuskic/output/github-contribution-grid-snake-dark.svg" />
